@@ -12,3 +12,4 @@ catboost_info
 flagged
 # Ignore mlruns
 mlruns
+.idea
